@@ -1,0 +1,20 @@
+[
+    {
+        "id": "202220193",
+        "StudentName": "Jonaly Nantes",
+        "StudentCourse": "BSOA",
+        "StudentYear": "4th Year"
+    },
+    {
+        "id": "202124013",
+        "StudentName": "Jubs Nantes",
+        "StudentCourse": "BSCS",
+        "StudentYear": "2nd Year"
+    },
+    {
+        "id": "202110116",
+        "StudentName": "Jubert Nantes",
+        "StudentCourse": "BSCS",
+        "StudentYear": "3rd Year"
+    }
+]
